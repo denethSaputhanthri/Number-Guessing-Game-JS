@@ -1,4 +1,3 @@
-console.log("js Loaded..!");
 let guessNumber =Math.floor(Math.random() *10)+1;
 console.log(guessNumber);
 
@@ -24,4 +23,3 @@ function search() {
 
 
 
-// let guessNumber = Math.floor(Math.random() * 10) + 1;
